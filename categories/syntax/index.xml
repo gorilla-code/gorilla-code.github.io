@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on Gorilla Code</title>
+    <link>https://gorilla-code.github.io/categories/syntax/</link>
+    <description>Recent content in syntax on Gorilla Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gorilla-code.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Csharp</title>
+      <link>https://gorilla-code.github.io/post/2023/01/25/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gorilla-code.github.io/post/2023/01/25/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>New Coding trade</title>
+      <link>https://gorilla-code.github.io/post/2023/01/24/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gorilla-code.github.io/post/2023/01/24/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
